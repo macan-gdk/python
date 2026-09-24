@@ -1,0 +1,35 @@
+# Dependencies (như node_modules) — cài lại bằng install script / pip
+.packages/
+.ocr-env/
+.mamba/
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Output / temp
+*.docx
+*.txt
+!requirements.txt
+!data/**/*.txt
+ket_qua*
+523642*
+/tmp/
+
+# Cursor / local
+.cursor/

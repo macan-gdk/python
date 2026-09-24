@@ -46,6 +46,12 @@ python app.py
 1. **Python** — https://www.python.org — tick **Add to PATH** + **tcl/tk**
 2. **Tesseract + Vietnamese** — https://github.com/UB-Mannheim/tesseract/wiki
 3. Clone/copy repo (không cần `.ocr-env` / `.packages`)
+  Install git 
+    https://git-scm.com/install/windows
+    Git for Windows/x64 Setup.
+  Clone repo
+    git clone https://github.com/macan-gdk/python.git
+  
 4. Chạy:
    ```bat
    install.bat
